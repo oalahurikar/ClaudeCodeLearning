@@ -1,0 +1,12 @@
+[submodule "vendor/claude-agent-sdk-python"]
+	path = vendor/claude-agent-sdk-python
+	url = https://github.com/anthropics/claude-agent-sdk-python.git
+[submodule "vendor/claude-agent-sdk-typescript"]
+	path = vendor/claude-agent-sdk-typescript
+	url = https://github.com/anthropics/claude-agent-sdk-typescript.git
+[submodule "vendor/claude-agent-sdk-demos"]
+	path = vendor/claude-agent-sdk-demos
+	url = https://github.com/anthropics/claude-agent-sdk-demos.git
+[submodule "vendor/claude-cookbooks"]
+	path = vendor/claude-cookbooks
+	url = https://github.com/anthropics/claude-cookbooks.git
