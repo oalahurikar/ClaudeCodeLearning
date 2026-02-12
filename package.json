@@ -1,0 +1,16 @@
+{
+  "name": "claude-agent-sdk-learning",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Learning and experimentation with the Claude Agent SDK",
+  "scripts": {
+    "hello:ts": "tsx experiments/typescript/01-hello-agent/main.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/claude-agent-sdk": "latest"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "tsx": "^4.19.0"
+  }
+}
